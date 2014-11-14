@@ -253,6 +253,6 @@
 
 			return dir.ns + (dir.ew ? dir.ew : '');
 		}
-	};
+	}
     
 })(jQuery);
